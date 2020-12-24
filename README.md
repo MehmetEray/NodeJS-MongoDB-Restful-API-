@@ -5,3 +5,6 @@
 -Bcryptjs for encryption
 -Express.js
 -egitim kodlari => https://github.com/meseven/node-egitimi/tree/master/mongodb
+
+npm install
+npm start
